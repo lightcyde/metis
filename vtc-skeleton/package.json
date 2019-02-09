@@ -1,5 +1,5 @@
 {
-  "name": "vtc-skeleton",
+  "name": "@vortech-digital-pioneers/vtc-skeleton",
   "version": "1.0.3",
   "description": "A component for usage in skeleton screens with the option to enable or disable skeleton animation.",
   "module": "dist/esm/index.js",
@@ -19,5 +19,18 @@
   "devDependencies": {
     "@stencil/core": "~0.16.2"
   },
-  "license": "MIT"
+  "license": "MIT",
+  "dependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/vortech-digital-pioneers/metis/tree/master/vtc-skeleton"
+  },
+  "keywords": [
+    "skeleton",
+    "screen",
+    "animation",
+    "web",
+    "component"
+  ],
+  "author": "Vortech Digital Pioneers"
 }
